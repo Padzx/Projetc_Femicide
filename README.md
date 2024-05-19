@@ -1,4 +1,4 @@
-# Projetc_Femicide
+# Projetc_Feminicide
 
 ## Project based in real statics about the femicide in Sao Paulo City.
 
